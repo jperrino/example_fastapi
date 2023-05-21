@@ -1,0 +1,6 @@
+__pycache__
+/fastapi-env
+/pics
+/sql
+.env
+notes.md
